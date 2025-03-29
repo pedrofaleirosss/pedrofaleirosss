@@ -4,9 +4,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrofaleirosss)
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pedrofaleiros885@gmail.com&su=&body=)
 
-![Pedro Faleiros's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrofaleirosss&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofaleirosss&hide_progress=true&theme=dark)
+<div>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrofaleirosss&show_icons=true&theme=dark" style="margin-right: 10px" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofaleirosss&layout=compact&theme=dark" />
+</div>
 
 ## Tecnologias que eu utilizo
 
