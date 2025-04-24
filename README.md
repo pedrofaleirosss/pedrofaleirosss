@@ -1,9 +1,8 @@
-### Olá! Eu sou o Pedro Faleiros 🖐
+## Olá! Eu sou o Pedro Faleiros 🖐
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-faleiros-172360309)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrofaleirosss)
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pedrofaleiros885@gmail.com&su=&body=)
-
 
 <div>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrofaleirosss&show_icons=true&theme=dark" style="margin-right: 10px" />
@@ -27,3 +26,4 @@
     <img alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
+
