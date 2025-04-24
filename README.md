@@ -1,17 +1,34 @@
-### Olá! Eu sou o Pedro Faleiros 🖐
+# 👨‍💻 Pedro Faleiros
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-faleiros-172360309)
+**`Engenheiro de Software | Desenvolvedor Full Stack`**
+
+🖐 Olá! Meu nome é Pedro Faleiros. Iniciei minha jornada na programação aos 14 anos, quando começei um ensino médio técnico em Desenvolvimento de Sistemas na Etec. Desde então, sigo em constante aprendizado, sempre em busca de novos conhecimentos e experiências. Para me aprofundar, participei de plataformas como a Alura e o Full Stack Club. Atualmente, estou cursando Engenharia de Software na FIAP e meu objetivo é me tornar um profissional altamente capacitado, criando soluções eficientes e inovadoras
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-faleiros123)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrofaleirosss)
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pedrofaleiros885@gmail.com&su=&body=)
 
+---
+
+### 📊 Estatísticas
+
 <div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrofaleirosss&show_icons=true&theme=dark" style="margin-right: 10px" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofaleirosss&layout=compact&theme=dark" />
+  <img 
+    alt="GitHub Stats"
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api?username=pedrofaleirosss&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    style="margin-right: 10px" 
+  />
+  <img 
+    alt="GitHub Stats"
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofaleirosss&layout=compact&theme=dark&langs_count=6&locale=pt-br" 
+  />
 </div>
 
-## Tecnologias que eu utilizo
+### 💻 Linguagens e Tecnologias
 
-<div style="display: inline_block"><br/>
+<div>
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -26,4 +43,3 @@
     <img alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
-
