@@ -15,14 +15,14 @@
 <div>
   <img 
     alt="GitHub Stats"
-    height="165" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api?username=pedrofaleirosss&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
     style="margin-right: 10px" 
   />
   <img 
     alt="GitHub Stats"
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofaleirosss&layout=compact&theme=dark&langs_count=9&locale=pt-br" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofaleirosss&layout=compact&theme=dark&langs_count=10&locale=pt-br&custom_title=Linguagens" 
   />
 </div>
 
@@ -42,4 +42,5 @@
     <img alt="Figma" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma" />
     <img alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
