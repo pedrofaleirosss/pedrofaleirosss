@@ -22,7 +22,7 @@
   <img 
     alt="GitHub Stats"
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofaleirosss&layout=compact&theme=dark&langs_count=10&locale=pt-br&custom_title=Linguagens" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofaleirosss&layout=compact&theme=dark&langs_count=12&locale=pt-br&custom_title=Linguagens" 
   />
 </div>
 
