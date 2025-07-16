@@ -2,7 +2,7 @@
 
 **`Engenheiro de Software | Desenvolvedor Full Stack`**
 
-🖐 Olá! Meu nome é Pedro Faleiros. Iniciei minha jornada na programação aos 14 anos, quando começei um ensino médio técnico em Desenvolvimento de Sistemas na Etec. Desde então, sigo em constante aprendizado, sempre em busca de novos conhecimentos e experiências. Para me aprofundar, participei de plataformas como a Alura e o Full Stack Club. Atualmente, estou cursando Engenharia de Software na FIAP e meu objetivo é me tornar um profissional altamente capacitado, criando soluções eficientes e inovadoras
+🖐 Olá! Meu nome é Pedro Faleiros. Iniciei minha jornada na programação aos 14 anos, quando começei um ensino médio técnico em Desenvolvimento de Sistemas na Etec. Desde então, sigo em constante aprendizado, sempre em busca de novos conhecimentos e experiências. Para me aprofundar, participei de plataformas como a [Alura](https://www.alura.com.br), o [Full Stack Club](https://www.fullstackclub.com.br) e a [Rocketseat](https://www.rocketseat.com.br). Atualmente, estou cursando Engenharia de Software na [FIAP](https://fiap.com.br) e meu objetivo é me tornar um profissional altamente capacitado, criando soluções eficientes e inovadoras
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-faleiros123)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrofaleirosss)
