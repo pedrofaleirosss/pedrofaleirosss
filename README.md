@@ -12,16 +12,16 @@
 
 ### 📊 Estatísticas
 
-<div>
+<div >
   <img 
     alt="GitHub Stats"
-    height="200" 
+    height=190
     src="https://github-readme-stats.vercel.app/api?username=pedrofaleirosss&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
     style="margin-right: 10px" 
   />
   <img 
     alt="GitHub Stats"
-    height="200" 
+    height=190
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofaleirosss&layout=compact&theme=dark&langs_count=12&locale=pt-br&custom_title=Linguagens" 
   />
 </div>
