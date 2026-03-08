@@ -1,36 +1,56 @@
-# 👨‍💻 Pedro Faleiros
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:00c3ff&height=120&section=header"/>
 
-**`Engenheiro de Software | Desenvolvedor Full Stack`**
+<h1 align="center">👨‍💻 Pedro Faleiros</h1>
 
-🖐 Olá! Meu nome é Pedro Faleiros. Iniciei minha jornada na programação aos 14 anos, quando começei um ensino médio técnico em Desenvolvimento de Sistemas na Etec. Desde então, sigo em constante aprendizado, sempre em busca de novos conhecimentos e experiências. Para me aprofundar, participei de plataformas como a [Alura](https://www.alura.com.br), o [Full Stack Club](https://www.fullstackclub.com.br) e a [Rocketseat](https://www.rocketseat.com.br). Atualmente, estou cursando Engenharia de Software na [FIAP](https://fiap.com.br) e meu objetivo é me tornar um profissional altamente capacitado, criando soluções eficientes e inovadoras
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C3FF&size=24&center=true&vCenter=true&width=600&lines=Engenheiro+de+Software;Desenvolvedor+Full+Stack;React+%7C+Node+%7C+TypeScript;Sempre+aprendendo+coisas+novas" />
+</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-faleiros123)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrofaleirosss)
-[![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pedrofaleiros885@gmail.com&su=&body=)
+<p>
+  🖐 Olá! Meu nome é <strong>Pedro Faleiros</strong>.  
+  Iniciei minha jornada na programação aos 14 anos, quando comecei um ensino médio técnico em Desenvolvimento de Sistemas na Etec.  
+  Desde então, sigo em constante aprendizado, sempre em busca de novos conhecimentos e experiências.
+  Para me aprofundar, participei de plataformas como 
+  <strong><a href="https://www.alura.com.br">Alura</a></strong>, 
+  <strong><a href="https://www.fullstackclub.com.br">Full Stack Club</a> </strong>
+  e <strong><a href="https://www.rocketseat.com.br">Rocketseat</a></strong>.  
+  Atualmente curso Engenharia de Software na 
+  <strong><a href="https://fiap.com.br">FIAP</a></strong></strong> e meu objetivo é me tornar um profissional altamente capacitado, criando soluções eficientes e inovadoras.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-faleiros123">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.instagram.com/pedrofaleirosss">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedrofaleiros885@gmail.com&su=&body=">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 📊 Estatísticas
+## 📊 GitHub Stats
 
-<div >
-  <img 
-    alt="GitHub Stats"
-    height=190
-    src="https://github-readme-stats.vercel.app/api?username=pedrofaleirosss&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-    style="margin-right: 10px" 
-  />
-  <img 
-    alt="GitHub Stats"
-    height=190
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofaleirosss&layout=compact&theme=dark&langs_count=12&locale=pt-br&custom_title=Linguagens" 
-  />
-</div>
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedrofaleirosss"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrofaleirosss"/>
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=pedrofaleirosss"/>
+</p>
 
 ---
 
-### 💻 Linguagens e Tecnologias
+## 🛠️ Tech Stack
 
 <div align="center">
+    <br>
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -47,3 +67,5 @@
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:00c3ff&height=120&section=footer"/>
